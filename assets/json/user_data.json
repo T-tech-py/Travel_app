@@ -1,0 +1,11 @@
+
+{
+    "status": "success",
+    "message": "data fatched successfuly",
+    "payload": {
+        "id": 1,
+        "name":"Czar",
+        "surname":"Ken",
+        "token": "MKJSJJKSHJSSJKJKSJHSJBSJXBXWUHWUJHJSHQYJYGQ"
+    }
+}

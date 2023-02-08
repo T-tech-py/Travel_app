@@ -1,0 +1,35 @@
+
+{
+    "status": "success",
+    "message": "data fatched successfuly",
+    "payload": {
+        "id": 1,
+        "accountBalance":"10.713.95",
+        "card":[
+            {
+                "ammount":230,
+                "name": "Apple Inc",
+                "description": "This is a well decorated place.",
+                "location": "Lagos Nigeria"
+            },
+            {
+                "ammount":180,
+                "name": "Tanjung Aan",
+                "description": "This is a well decorated place.",
+                "location": "Lagos Nigeria"
+            },
+            {
+                "ammount":330,
+                "name": "Google ",
+                "description": "This is a well decorated place.",
+                "location": "Lagos Nigeria"
+            },
+            {
+                "ammount":270,
+                "name": "Apple.",
+                "description": "This is a well decorated place.",
+                "location": "Lagos Nigeria"
+            }
+        ]
+        }
+}

@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "message": "data fatched successfuly",
+    "payload": {
+        "id": 1,
+        "cardName": "Apple Inc",
+        "cardMaker": "AAPL",
+        "cardBalance": "7.213.05",
+        "cardInterest": "50.235",
+        "cardInterestRate":"5.25",
+        "buyingBalance":"8.423",
+        "graphData": []
+    }
+}
